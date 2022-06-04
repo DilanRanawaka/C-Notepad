@@ -1,1 +1,1 @@
-# C-Notepad
+# Notepad-QT-APP
